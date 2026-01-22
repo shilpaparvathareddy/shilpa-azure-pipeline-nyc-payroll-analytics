@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-nycpayro",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56036040-aba3-4827-95fe-59b642fb3338",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
